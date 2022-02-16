@@ -23,7 +23,8 @@ body {
 
 #movie-list {
     display:flex;
-    justify-content: center;
+    /* justify-content: center; */
+    overflow-x: auto;
 }
 
 #movie-list img {
